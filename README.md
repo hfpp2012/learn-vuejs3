@@ -1,4 +1,8 @@
-# learn-vuejs3
+# learn-vuejs3（每天更新）
+
+![](https://rails365.oss-cn-shenzhen.aliyuncs.com/uploads/photo/image/2179/2021/d2b5ca33bd970f64a6301fa75ae2eb22.png)
+
+![](https://rails365.oss-cn-shenzhen.aliyuncs.com/uploads/photo/image/2178/2021/d2b5ca33bd970f64a6301fa75ae2eb22.png)
 
 ## 零基础学习 Vue JS 3 完全免费视频教程
 
